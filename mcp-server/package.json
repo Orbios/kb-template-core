@@ -1,0 +1,54 @@
+{
+    "name": "@orbios/kb-mcp",
+    "version": "0.1.0",
+    "description": "Orbios KB Public MCP Server - Mission management and knowledge base operations",
+    "type": "module",
+    "main": "src/server.js",
+    "bin": {
+        "orbios-kb-mcp": "src/server.js"
+    },
+    "scripts": {
+        "dev": "node --watch src/server.js",
+        "start": "node src/server.js",
+        "test": "node --test tests/missions.test.js",
+        "build": "echo 'No build step needed for JS'",
+        "index-docs": "node scripts/index-docs.js",
+        "index-knowledge": "node scripts/index-knowledge.js",
+        "test-search": "node scripts/test-search.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Orbios/orbios-kb-public.git",
+        "directory": "mcp-server"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com",
+        "@orbios:registry": "https://npm.pkg.github.com"
+    },
+    "keywords": [
+        "mcp",
+        "orbios",
+        "kb",
+        "model-context-protocol",
+        "mission-management"
+    ],
+    "author": "Orbios Team",
+    "license": "MIT",
+    "dependencies": {
+        "@lancedb/lancedb": "^0.4.0",
+        "@modelcontextprotocol/sdk": "^0.5.0",
+        "@xenova/transformers": "^2.17.1",
+        "client-vector-search": "^0.2.0",
+        "dotenv": "^16.3.1",
+        "jsonwebtoken": "^9.0.3",
+        "pg": "^8.16.3",
+        "yaml": "^2.3.4",
+        "zod": "^3.22.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.0"
+    },
+    "engines": {
+        "node": ">=20.0.0"
+    }
+}

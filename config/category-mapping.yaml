@@ -1,0 +1,86 @@
+
+# Orbios KB - Category Access Mapping
+# Single Source of Truth for Discord Category <-> KB Access Level
+# Last Updated: 2026-01-12
+
+categories:
+  # ------------------------------------------------------------------
+  # 🟢 PUBLIC KB
+  # Open to everyone. Synced to public repositories.
+  # ------------------------------------------------------------------
+  - name: "ℹ️ information"
+    id: "1414696289635008543"  # Conferred from 'announcements' parent
+    access_level: "public"
+    sync_enabled: true
+    description: "General announcements and public info"
+
+  # ------------------------------------------------------------------
+  # 🟡 CORE KB (Team)
+  # Internal operations, active projects. Restricted to Team members.
+  # ------------------------------------------------------------------
+  - name: "🗂️ active-projects"
+    id: "1414694169951342683" # Conferred from 'team-fusion' parent
+    access_level: "core"
+    sync_enabled: true
+    description: "Active development projects"
+
+  - name: "📂 orbios-missions"
+    id: "1415598713035948042" # Approx ID logic - verify exact ID
+    access_level: "core"
+    sync_enabled: true
+    description: "Mission-specific channels"
+
+  - name: "⚙️ Core Cluster 0"
+    id: "1414694679127003177" # Conferred
+    access_level: "core"
+    sync_enabled: true
+    description: "Internal team operations and standups"
+
+  # ------------------------------------------------------------------
+  # 🔴 BOARD KB (Private)
+  # Strategy, HR, Finance. Restricted to Board/Admins.
+  # ------------------------------------------------------------------
+  - name: "🔒 Board / Strategy"
+    id: "BOARD_CATEGORY_ID_PLACEHOLDER"
+    access_level: "board"
+    sync_enabled: true
+    description: "High-level strategy and sensitive discussions"
+
+  # ------------------------------------------------------------------
+  # ⚪ ARCHIVE
+  # Read-only historical data.
+  # ------------------------------------------------------------------
+  - name: "📦 Archive (Read-Only)"
+    id: "1414520421214060657" # Conferred
+    access_level: "archive"
+    sync_enabled: false
+    description: "Archived projects"
+
+# Default fallback for unknown categories
+# Default fallback for unknown categories
+default_access_level: "core"
+
+# ------------------------------------------------------------------
+# 🔀 CHANNEL OVERRIDES
+# Explicit mapping for channels where category logic fails or needs override
+# ------------------------------------------------------------------
+channels:
+  # PUBLIC
+  - id: "1414696505666834613" # ?questions
+    access_level: "public"
+  - id: "1414519141552881677" # general
+    access_level: "public"
+  - id: "1414696356119052319" # ?coffee-break
+    access_level: "public"
+  - id: "1414696289635008543" # announcements
+    access_level: "public"
+
+  # CORE (Examples, relying on default otherwise)
+  - id: "1414694679127003177" # availability
+    access_level: "core"
+  - id: "1458457674655076546" # test-team-updates-temp-private
+    access_level: "core"
+    
+  # BOARD (Placeholder)
+  # - id: "..."
+  #   access_level: "board"

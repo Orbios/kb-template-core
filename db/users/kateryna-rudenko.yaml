@@ -1,0 +1,21 @@
+id: kateryna-rudenko
+name: Kateryna Rudenko
+email: k.rudeenko@gmail.com
+avatar: avatars/kateryna-rudenko.jpg
+roles:
+  - UI/UX Designer
+fields:
+  - design
+tags:
+  - Active
+  - Designer
+joined_at: 2025-01-06
+left_at:
+location: Prague, Czech Republic
+timezone: UTC+1
+languages:
+  - uk
+  - en
+  - cs
+status: active
+profile: ./db/users/kateryna-rudenko.md

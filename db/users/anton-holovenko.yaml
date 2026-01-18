@@ -1,0 +1,25 @@
+id: anton-holovenko
+name: Anton Holovenko
+email: antonholovenko220@gmail.com
+avatar:
+roles:
+  - Ops/Dev Support
+  - Full Stack Developer
+fields:
+  - dev
+  - ops
+tags:
+  - Active
+  - Dev
+  - Ops
+joined_at: 2025-12-22
+left_at:
+location: Slovakia
+timezone: UTC+1
+languages:
+  - uk
+  - en
+  - ru
+status: active
+profile: ./db/users/anton-holovenko.md
+

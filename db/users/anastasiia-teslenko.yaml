@@ -1,0 +1,23 @@
+id: anastasiia-teslenko
+name: Anastasiia Teslenko
+email: stasya.teslenko@gmail.com
+avatar: avatars/anastasiia-teslenko.jpg
+roles:
+  - Camp Ops
+  - Tf project lead
+fields:
+  - ops
+  - camp
+  - tf
+tags:
+  - Active
+  - Ops
+  - Orbios Camp
+joined_at: 2025-01-27
+left_at:
+location: Kharkiv, Ukraine
+languages:
+  - ru
+  - en
+status: active
+profile: ./db/users/anastasiia-teslenko.md

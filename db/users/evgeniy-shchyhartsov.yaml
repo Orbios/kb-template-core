@@ -1,0 +1,20 @@
+id: evgeniy-shchyhartsov
+name: Evgeniy Shchyhartsov
+email: evgeniy.shigartsov2@gmail.com
+avatar: avatars/evgeniy-shchyhartsov.png
+roles:
+  - Full Stack Developer
+fields:
+  - dev
+tags:
+  - Active
+  - Dev
+joined_at: 2025-10-27
+left_at:
+location: Kyiv, Ukraine
+timezone: UTC+2
+languages:
+  - uk
+  - en
+status: active
+profile: ./db/users/evgeniy-shchyhartsov.md

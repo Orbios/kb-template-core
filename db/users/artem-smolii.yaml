@@ -1,0 +1,20 @@
+id: artem-smolii
+name: Artem Smolii
+email: pelvity@gmail.com
+avatar: avatars/artem-smolii.gif
+roles:
+  - Fullstack Developer
+fields:
+  - dev
+tags:
+  - Active
+  - Dev
+joined_at: 2025-09-11
+left_at:
+location: Krakow, Poland
+timezone: UTC+1
+languages:
+  - uk
+  - en
+status: active
+profile:

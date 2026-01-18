@@ -1,0 +1,22 @@
+id: nikita-motytskyi
+name: Nikita Motytskyi
+email: nikonprofiz@gmail.com
+avatar: avatars/nikita-motytskyi.png
+roles:
+  - Full Stack Developer
+fields:
+  - dev
+tags:
+  - Active
+  - Dev
+  - Fullstack
+joined_at: 2025-09-11
+left_at:
+location: Kyiv, Ukraine
+timezone: UTC+2
+languages:
+  - uk
+  - en
+  - ru
+status: active
+profile:

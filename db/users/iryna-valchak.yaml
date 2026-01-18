@@ -1,0 +1,23 @@
+id: iryna-valchak
+name: Iryna Valchak
+email: iravalchak@gmail.com
+avatar: avatars/iryna-valchak.webp
+roles:
+  - Marketing manager
+  - Fullstack developer
+fields:
+  - marketing
+  - dev
+tags:
+  - Active
+  - Dev
+  - Marketing
+joined_at: 2025-09-18
+left_at:
+location: Ternopil, Ukraine
+timezone: UTC+2
+languages:
+  - uk
+  - en
+status: active
+profile: ./db/users/iryna-valchak.md

@@ -1,0 +1,23 @@
+id: erik-sytnyk
+name: Erik Sytnyk
+email: erik.sytnyk@orbios.io
+avatar: avatars/erik-sytnyk.jpg
+roles:
+  - Founder
+  - Strategist
+fields:
+  - dev
+  - ops
+  - market
+tags:
+  - Core Team
+  - Active
+joined_at: 2023-01-02
+left_at:
+location: Phuket, Thailand
+languages:
+  - ru
+  - en
+  - uk
+status: active
+profile: ./db/users/erik-sytnyk.md

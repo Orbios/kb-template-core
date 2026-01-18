@@ -1,0 +1,26 @@
+id: diana-dukelska
+name: Diana Dukelska
+email: dianadukelska@gmail.com
+avatar: avatars/diana-dukelska.png
+roles:
+  - Full Stack Developer
+  - Operations Manager
+fields:
+  - dev
+  - ops
+  - hr
+tags:
+  - Active
+  - Dev
+  - Ops
+  - HR
+joined_at: 2025-09-11
+left_at:
+location: Bratislava, Slovakia
+timezone: UTC+1
+languages:
+  - uk
+  - ru
+  - en
+status: active
+profile: ./db/users/diana-dukelska.md

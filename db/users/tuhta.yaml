@@ -1,0 +1,20 @@
+id: tuhta
+name: Tuhta
+email:
+roles:
+  - Household Services
+fields:
+  - household
+tags:
+  - Active
+  - Support
+  - Thailand
+  - Household
+joined_at: 2025-08-19
+left_at:
+location: Phuket, Thailand
+languages:
+  - th
+  - en
+status: active
+profile:

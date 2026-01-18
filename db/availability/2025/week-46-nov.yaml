@@ -1,0 +1,81 @@
+# Week 46: November 10-16, 2025
+# Availability data for team members
+
+week_number: 46
+year: 2025
+week_start: "2025-11-10"  # Monday
+week_end: "2025-11-16"    # Sunday
+month: november
+
+team:
+  andrew-temchenko:
+    monday: "08:30-17:00"
+    tuesday: "08:30-17:00"
+    wednesday: "08:30-17:00"
+    thursday: "08:30-16:00"
+    friday: "08:30-17:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  artem-smolii:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  diana-dukelska:
+    monday: "9:00-12:00, 14:00-15:00"
+    tuesday: "10:00-14:00"
+    wednesday: "10:00-14:00"
+    thursday: "8:00-12:00"
+    friday: "10:00-14:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  evgeniy-shchyhartsov:
+    monday: "15:00-18:00"
+    tuesday: "09:00-12:00"
+    wednesday: "09:00-12:00"
+    thursday: "09:00-12:00"
+    friday: "09:00-12:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  iryna-valchak:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  kateryna-rudenko:
+    monday: "Day off"
+    tuesday: "Day off"
+    wednesday: "Day off"
+    thursday: "Day off"
+    friday: "Day off"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  nikita-motytskyi:
+    monday: "16:00-20:00"
+    tuesday: "16:00-20:00"
+    wednesday: "16:00-20:00"
+    thursday: "16:00-20:00"
+    friday: "16:00-20:00"
+    saturday: "20:00-23:00"
+    sunday: "Day off"
+
+  olha-kyrylenko:
+    monday: "Flexible"
+    tuesday: "Flexible"
+    wednesday: "Flexible"
+    thursday: "Flexible"
+    friday: "Flexible"
+    saturday: "Flexible"
+    sunday: "Flexible"

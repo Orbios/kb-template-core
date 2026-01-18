@@ -1,0 +1,81 @@
+# Week 44: October 27 - November 2, 2025
+# Availability data for team members
+
+week_number: 44
+year: 2025
+week_start: "2025-10-27"  # Monday
+week_end: "2025-11-02"    # Sunday
+month: october
+
+team:
+  andrew-temchenko:
+    monday: "09:00-17:30"
+    tuesday: "10:00-17:30"
+    wednesday: "09:00-17:30"
+    thursday: "09:00-17:30"
+    friday: "09:00-17:30"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  artem-smolii:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  diana-dukelska:
+    monday: "15:00-19:00"
+    tuesday: "8:00-12:00"
+    wednesday: "10:00-14:00"
+    thursday: "9:00-11:00, 14:30-16:30"
+    friday: "8:00-12:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  evgeniy-shchyhartsov:
+    monday: "15:00-18:00"
+    tuesday: "15:00-18:00"
+    wednesday: "15:00-18:00"
+    thursday: "15:00-18:00"
+    friday: "15:00-18:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  iryna-valchak:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  kateryna-rudenko:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  nikita-motytskyi:
+    monday: "16:00-20:00"
+    tuesday: "16:00-20:00"
+    wednesday: "16:00-20:00"
+    thursday: "Day off"
+    friday: "16:00-20:00"
+    saturday: "Day off"
+    sunday: "Day off"
+
+  olha-kyrylenko:
+    monday: "09:30-13:00, 18:30-21:00"
+    tuesday: "10:00-19:00"
+    wednesday: "Day off"
+    thursday: "Day off"
+    friday: "Not specified yet"
+    saturday: "Flexible"
+    sunday: "Flexible"

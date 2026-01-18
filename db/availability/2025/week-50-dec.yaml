@@ -1,0 +1,81 @@
+# Week 50: December 8-14, 2025
+# Availability data for team members
+
+week_number: 50
+year: 2025
+week_start: "2025-12-08"  # Monday
+week_end: "2025-12-14"    # Sunday
+month: december
+
+team:
+  andrew-temchenko:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  artem-smolii:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  diana-dukelska:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  evgeniy-shchyhartsov:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  iryna-valchak:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  kateryna-rudenko:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  nikita-motytskyi:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
+
+  olha-kyrylenko:
+    monday: "Not specified yet"
+    tuesday: "Not specified yet"
+    wednesday: "Not specified yet"
+    thursday: "Not specified yet"
+    friday: "Not specified yet"
+    saturday: "Not specified yet"
+    sunday: "Not specified yet"
